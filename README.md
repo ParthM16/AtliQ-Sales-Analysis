@@ -1,5 +1,6 @@
 # Objective: 
 ### To track sales data and find insights for the sales team to make better decisions and reduce time by making process automate of gathering data for visualization.
+</br>
 
 ## What I've Learnt
 
