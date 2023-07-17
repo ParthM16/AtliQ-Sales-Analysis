@@ -1,13 +1,16 @@
 # Objective: 
 ### To track sales data and find insights for the sales team to make better decisions and reduce time by making process automate of gathering data for visualization.
 
+## What I've Learnt
 
-Data Link:	https://github.com/ParthM16/AtliQ-Sales-Analysis/blob/main/db_dump_version_2.sql.txt
-</br>Data Form:	MySQL 
+- AIMS Grid: Purpose, Stakeholder, success criteria, End result
 
-Credit: [codebasics](https://github.com/codebasics)
+- Initial analysis in MySQL:
+  -  Is there any sales **amount** <= 0 or **currency** != 'INR'? (INR: Indian currency)
 
-Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
+- Importing data, data modeling, and data cleaning and building a Dashboard in Power BI
+</br>
+
 
 ## KPIs
 
@@ -40,6 +43,7 @@ Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
 -  Top 5 customers and products
 
 - Revenue trend
+</br>
 
 ## Dashboard
 
@@ -50,24 +54,20 @@ Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
 - <H3>Updated Dashboard:</H3>
 
   ![image](https://github.com/ParthM16/AtliQ-Sales-Analysis/assets/136796479/43d2e0a6-95af-4d10-832e-2844d5124d04)
-
+</br>
+  
 ## Interactive Power BI Dashboard
   
-
 https://github.com/ParthM16/AtliQ-Sales-Analysis/assets/136796479/64e1e3cb-55ab-4a24-aea5-0d263012b236
 
+## Data Source and Credit
+Data Link:	https://github.com/ParthM16/AtliQ-Sales-Analysis/blob/main/db_dump_version_2.sql.txt
+</br>Data Form:	MySQL 
+
+Credit: [codebasics](https://github.com/codebasics)
+
+Link: https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I
 
 
-  
-  
-      
-## What I've Learnt
-
-- AIMS Grid: Purpose, Stakeholder, success criteria, End result
-
-- Initial analysis in MySQL:
-  -  Is there any sales **amount** <= 0 or **currency** != 'INR'? (INR: Indian currency)
-
-- Importing data, data modeling, and data cleaning and building a Dashboard in Power BI
 
 
