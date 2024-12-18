@@ -46,7 +46,7 @@
 - Revenue trend
 </br>
 
-## Dashboard https://app.powerbi.com/view?r=eyJrIjoiNzk2NGJmNDEtM2E1ZC00MzA1LThjYjItMDdiYmNhYjZhMTMwIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9
+## Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiNzk2NGJmNDEtM2E1ZC00MzA1LThjYjItMDdiYmNhYjZhMTMwIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9)
 
 - <H3>Initial Dashboard:</H3>
 
